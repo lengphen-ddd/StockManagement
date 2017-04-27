@@ -12,5 +12,6 @@ package htd.sm;
 public class StockManagement {
     public static void main(String agrs[]){
         System.out.println("Test second file");
+        System.out.println("Khmer");
     }
 }
